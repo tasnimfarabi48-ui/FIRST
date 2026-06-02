@@ -1,44 +1,44 @@
-first.c
+# 🚀 C Programming Practice Repository
 
-My first C programming project.
+Welcome to my C programming practice repository!
 
-Description
+This repository contains my C programming practice codes, problem-solving solutions, algorithms, mathematical implementations, and experimental projects. It serves as a collection of my learning journey and continuous improvement in programming.
 
-This program prints the message:
+## 📚 Contents
 
-Hello World
+- Basic C Programs
+- Loops & Functions
+- Arrays & Strings
+- Pointers
+- Structures
+- File Handling
+- Problem Solving
+- Mathematical Programs
+- Physics Simulations
+- Small Projects & Experiments
 
-It is a simple beginner project created to learn the basics of C programming, compilation, and GitHub.
+## 🎯 Goals
 
-Code
+- Strengthen C programming fundamentals
+- Improve problem-solving skills
+- Learn algorithms through implementation
+- Track coding progress over time
+- Build a strong foundation for Computer Science
 
-#include <stdio.h>
+## 🛠 Language
 
-int main() {
-    printf("Hello, World\n");
-    return 0;
-}
+- C
 
-How to Compile and Run
+## 📈 Progress
 
-Using GCC
+Every program in this repository represents a step forward in my programming journey. From simple beginner exercises to more advanced implementations, all codes are organized here for learning and reference.
 
-Compile the program:
+## 👨‍💻 Maintainer
 
-gcc first.c -o first
+**Tasnim Farabi**
 
-Run the program:
+GitHub: https://github.com/tasnimfarabi48-ui
 
-./first
+---
 
-Output
-
-Hello, World!
-
-Author
-
-Tasnim Farabi
-
-Notes
-
-This is my first GitHub repository and the beginning of my programming journey.
+⭐ Feel free to explore the repository and follow my programming journey.
